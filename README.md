@@ -25,4 +25,4 @@ streamlit run app.py
 ---
 
 ## 📸 Demo
-![Chatbot Demo]("https://customer-support-chatbot-nb6kjkdfo6hpdppbshkazz.streamlit.app/")
+![Chatbot Demo](https://customer-support-chatbot-nb6kjkdfo6hpdppbshkazz.streamlit.app)
