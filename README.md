@@ -3,16 +3,12 @@
 An AI-powered customer support chatbot built using Python and Streamlit.
 It helps users track orders, request refunds, and cancel orders easily.
 
-⸻
-
 🚀 Features
 	•	📦 Track order status
 	•	💰 Request refunds
 	•	❌ Cancel orders
 	•	🔄 Check refund status
 	•	💬 Interactive chat interface
-
-⸻
 
 🛠️ Tech Stack
 	•	Python
